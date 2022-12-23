@@ -28,7 +28,7 @@ body {
 }
 
 .pie_image {
-    height: 2.5rem;
+    height: 2.3rem;
 }
 
 #pie-title {
@@ -104,7 +104,7 @@ body {
 
 #five-text {
     box-sizing: border-box;
-    color: #16a0e9;
+    color: #1d5791;
     font-size: 1.7rem;
     font-weight: 900;
     z-index: 19;
@@ -136,7 +136,7 @@ body {
 
 #ten-text {
     box-sizing: border-box;
-    color: #16a0e9;
+    color: #f34c9b;
     font-size: 1.7rem;
     font-weight: 900;
     z-index: 19;
@@ -170,7 +170,7 @@ body {
     box-sizing: border-box;
     color: #16a0e9;
     font-size: 2.5rem;
-    font-weight: 700;
+    font-weight: 900;
     z-index: 20;
     margin-right: 150px;
     margin-top: 60px;
@@ -188,8 +188,8 @@ body {
     font-size: 2.5rem;
     font-weight: 700;
     z-index: 20;
-    margin-right: 340px;
-    margin-top: 190px;
+    margin-right: 350px;
+    margin-top: 210px;
     position: absolute;
     display: flex;
     justify-content: center;
@@ -222,7 +222,7 @@ body {
     width: 470px;
     border-radius: 50%;
     background: conic-gradient(transparent 82.00%,
-            white 82% 98%,
+            #f1eff0 82% 98%,
             transparent 98%);
 }
 
@@ -251,14 +251,14 @@ body {
     width: 420px;
     border-radius: 50%;
     background: conic-gradient(transparent 62.00%,
-            white 62% 78%,
+            #f1eff0 62% 78%,
             transparent 78%);
 }
 
 #twenty-five-text {
     box-sizing: border-box;
-    color: #16a0e9;
-    font-size: 2.5rem;
+    color: #f6b70b;
+    font-size: 2rem;
     font-weight: 700;
     z-index: 19;
     margin-right: 330px;
@@ -273,7 +273,7 @@ body {
 
 #twenty-five-icon {
     box-sizing: border-box;
-    color: #16a0e9;
+    color: #f6b70b;
     font-size: 2.5rem;
     font-weight: 700;
     z-index: 19;
@@ -312,14 +312,14 @@ body {
     width: 370px;
     border-radius: 50%;
     background: conic-gradient(transparent 42.00%,
-            white 42% 58%,
+            #f1eff0 42% 58%,
             transparent 58%);
 }
 
 #fifteen-text {
     box-sizing: border-box;
-    color: #16a0e9;
-    font-size: 2.5rem;
+    color: #9cc922;
+    font-size: 1.8rem;
     font-weight: 700;
     z-index: 19;
     margin-right: 70px;
@@ -334,7 +334,7 @@ body {
 
 #fifteen-icon {
     box-sizing: border-box;
-    color: #16a0e9;
+    color: #9cc922;
     font-size: 2.5rem;
     font-weight: 700;
     z-index: 19;
@@ -373,7 +373,7 @@ body {
     width: 330px;
     border-radius: 50%;
     background: conic-gradient(transparent 22.00%,
-            white 22% 38%,
+            #f1eff0 22% 38%,
             transparent 38%);
 }
 
@@ -415,8 +415,8 @@ body {
     height: 200px;
     width: 200px;
     border-radius: 50%;
-    background: conic-gradient(white 0%,
-            white 100%);
+    background: conic-gradient(#f1eff0 0%,
+            #f1eff0 100%);
 }
 
 #upper-white-circle::after {
@@ -429,8 +429,8 @@ body {
     height: 160px;
     width: 160px;
     border-radius: 50%;
-    background: conic-gradient(white 0%,
-            white 100%);
+    background: conic-gradient(#f1eff0 0%,
+            #f1eff0 100%);
 }
 
 #options {
@@ -542,8 +542,8 @@ body {
     height: 110px;
     width: 110px;
     border-radius: 50%;
-    background: conic-gradient(white 0%,
-            white 100%);
+    background: conic-gradient(#f1eff0 0%,
+            #f1eff0 100%);
 }
 
 #upper-down-white-circle::after {
@@ -557,8 +557,8 @@ body {
     height: 90px;
     width: 90px;
     border-radius: 50%;
-    background: conic-gradient(white 0%,
-            white 100%);
+    background: conic-gradient(#f1eff0 0%,
+            #f1eff0 100%);
 }
 
 #bottom-pie {
